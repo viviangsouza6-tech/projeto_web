@@ -1,0 +1,26 @@
+#div-form{
+    width: 500px;
+    min-height: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #d5b4f3;
+    border-radius: 8px;
+    font-family: 'Courier New', Courier, monospace;
+}
+h3{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+#form{
+    background-color: rgb(231, 179, 255);
+    padding: 10px;
+}
+
+label{
+    display: block;
+    margin: 10px 0px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
